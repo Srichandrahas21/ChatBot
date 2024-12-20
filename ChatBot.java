@@ -9,7 +9,7 @@ import java.util.Scanner;
 // Import the Random class
 import java.util.Random;
 
-public class P1_SA872378 {
+public class ChatBot {
 
 	public static void main(String[] args) {
 		String tryAgain;
